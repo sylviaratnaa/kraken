@@ -16,6 +16,9 @@ to 12-15 meters (40-50 feet) in length.
 HLA
 ===
 
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg/220px-Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg
+
+
 Network Architecture
 --------------------
 
